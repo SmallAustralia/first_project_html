@@ -1,6 +1,20 @@
-.handcrafted about_us {
+#handcrafted {
     text-align: center;
 }
 .about_us {
     text-align: center;
 }
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    display: flex;
+    
+      
+}
+
+a{
+    text-decoration: none;
+}
+
+ 
